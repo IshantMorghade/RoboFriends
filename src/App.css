@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Megiko';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('Megiko.otf') format('otf');
+}
+h1{
+    font-family: 'Megiko';
+    font-weight: 200;
+    color:#0ccac4;
+}
