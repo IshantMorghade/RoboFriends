@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
-import APP from './App';
-import './App.css';
+import APP from './Container/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

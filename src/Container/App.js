@@ -1,9 +1,9 @@
 import React from 'react';
-import {robots} from './robot';
-import SearchBox from './SearchBox';
-import CardList from './CardList';
+import {robots} from '../robot';
+import SearchBox from '../Components/SearchBox';
+import CardList from '../Components/CardList';
 import { render } from '@testing-library/react';
-import Scroll from './Scroll';
+import Scroll from '../Components/Scroll';
 class App extends React.Component {
     
     constructor(){

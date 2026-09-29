@@ -1,6 +1,6 @@
 import React from 'react';
-import Card from './Card';
-import {robots} from './robot';
+import Card from '../Components/Card';
+import {robots} from '../robot';
  
 
 const CardList =  ({robots}) =>{
